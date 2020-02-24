@@ -1,4 +1,4 @@
-# ADT
+# ADTS
 
 Projects from the Abstract Data Types and Structures course at SCU.
 
